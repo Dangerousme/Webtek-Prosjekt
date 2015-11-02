@@ -205,3 +205,10 @@ i.foot {
   color: white;
 }
 
+.exampleForecast{
+    display: block;
+    max-width: 100%;
+    margin-left: 0;
+    padding: 0px;
+}
+
